@@ -28,3 +28,5 @@ server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
   console.log('My Zodiac Sign is ' + myZodiacSign1 + 'and daugther is ' + myZodiacSign2)
 });
+
+// practice, practice, practice...
